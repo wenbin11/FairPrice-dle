@@ -1,926 +1,869 @@
 [
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12040245_XL1_20260312.jpg?w=320&q=60", "name": "Korea Premium Strawberry", "price": 17.95, "metadata": ["330g"] },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10238055_XL1_20260120.jpg?w=320&q=60",
-    "name": "Meiji Fresh Milk - Regular",
-    "price": "$6.97",
-    "metadata": ["2L", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13177941_XL1_20240409.jpg?w=320&q=60",
-    "name": "Freezepak Crispy Chicken Nuggets",
-    "price": "$10.90",
-    "metadata": ["1kg", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13058254_XL1_20260312.jpg?w=320&q=60",
-    "name": "Milo 3 in 1 Instant Chocolate Malt with Milk- Regular",
-    "price": "$7.95",
-    "metadata": ["15 x 27g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13211457_XL1_20251211.jpg?w=320&q=60",
-    "name": "Oatside Oat Milk - Barista Edition",
-    "price": "$6.10",
-    "metadata": ["1L", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13111324_XL1_20251031.jpg?w=320&q=60",
+    "name": "Royal Umbrella Thai Hom Mali Rice",
+    "price": 33.41,
+    "metadata": ["10kg"]
   },
   {
     "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13062276_XL1_20251023.jpg?w=320&q=60",
     "name": "Dettol Antiseptic Germicide Liquid",
-    "price": "$27.90",
+    "price": 27.9,
     "metadata": ["2L + 500ml"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13110985_XL1_20250127.jpg?w=320&q=60",
-    "name": "SongHe AAA Thai Hom Mali Rice",
-    "price": "$18.60",
-    "metadata": ["5kg", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11951709_XL1_20250925.jpg?w=320&q=60",
-    "name": "Magiclean Toilet Bleach Power Cleaner",
-    "price": "$9.43",
-    "metadata": ["3 x 500ml"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13019792_XL1_20251124.jpg?w=320&q=60",
-    "name": "Dove Body Wash - Beauty Nourishing",
-    "price": "$9.95",
-    "metadata": ["1L"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13000321_XL1_20250731.jpg?w=320&q=60", "name": "Pasar Prepacked Carrots", "price": "$0.95", "metadata": ["500g"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13093697_XL1_20250801.jpg?w=320&q=60",
-    "name": "Kleenex Toilet Tissue Rolls - Ultra Soft (3 ply)",
-    "price": "$15.06",
-    "metadata": ["20 x 200 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13174421_XL1_20250731.jpg?w=320&q=60",
-    "name": "Seara Frozen Chicken Wings",
-    "price": "$10.45",
-    "metadata": ["2kg", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13056515_XL1_20250801.jpg?w=320&q=60",
-    "name": "Scott Kitchen Towel Rolls",
-    "price": "$6.06",
-    "metadata": ["8 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13099154_XL1_20251211.jpg?w=320&q=60",
-    "name": "PurSoft Tissue Soft Pack - Outdoor (3 ply)",
-    "price": "$5.34",
-    "metadata": ["4 x 120 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13086897_XL1_20221229.jpg?w=320&q=60",
-    "name": "Farm Fresh Pure Fresh Milk",
-    "price": "$6.10",
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10238055_XL1_20260120.jpg?w=320&q=60",
+    "name": "Meiji Fresh Milk - Regular",
+    "price": 6.97,
     "metadata": ["2L", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13127636_XL1_20260101.jpg?w=320&q=60",
-    "name": "100 Plus Zero Sugar Can Drink - Original",
-    "price": "$16.81",
-    "metadata": ["24 x 325ml (CTN)", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13083570_XL1_20260114.jpg?w=320&q=60",
-    "name": "Coca-Cola Can Drink - Zero Sugar",
-    "price": "$10.80",
-    "metadata": ["12 x 320ml (CTN)"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241563_XL1_20250801.jpg?w=320&q=60",
-    "name": "FairPrice Vegetable Oil",
-    "price": "$15.80",
-    "metadata": ["5L", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/209280_XL1_20250626.jpg?w=320&q=60",
-    "name": "Valley Chef Frozen Chicken Franks",
-    "price": "$4.50",
-    "metadata": ["340.2g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11208413_XL1_20260203.jpg?w=320&q=60",
-    "name": "CP Shrimp Wonton - Whole Shrimp",
-    "price": "$6.62",
-    "metadata": ["154g (12 per pack)", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13104103_XL1_20250131.jpg?w=320&q=60",
-    "name": "Sadia Skinless Chicken Breast",
-    "price": "$8.31",
-    "metadata": ["1kg", "Halal"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13022014_XL1_20240912.jpg?w=320&q=60", "name": "F & N Magnolia Fresh Milk", "price": "$3.63", "metadata": ["946ml"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13255679_XL1_20251127.jpg?w=320&q=60",
-    "name": "Ocean Fresh Delite Frozen Paste - Shrimp",
-    "price": "$4.90",
-    "metadata": ["150g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10939505_XL1_20250911.jpg?w=320&q=60",
-    "name": "Peng Wang Cheese Tofu",
-    "price": "$3.63",
-    "metadata": ["200g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13183734_XL1_20251211.jpg?w=320&q=60",
-    "name": "PurSoft Facial Tissue Soft Pack (3 ply)",
-    "price": "$5.34",
-    "metadata": ["4 x 120 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10549750_XL1_20260120.jpg?w=320&q=60",
-    "name": "Meiji Low Fat Fresh Milk - Regular",
-    "price": "$6.97",
-    "metadata": ["2L", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/384959_XL1_20251209.jpg?w=320&q=60",
-    "name": "FairPrice Royal Premium Bathroom Tissue - Heavy Weight 2ply",
-    "price": "$5.05",
-    "metadata": ["10 per pack"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241561_XL1_20251021.jpg?w=320&q=60", "name": "FairPrice Canola Oil", "price": "$9.50", "metadata": ["2L", "Halal"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13280143_XL1_20260114.jpg?w=320&q=60",
-    "name": "Coca-Cola Can Drink - Zero Sugar",
-    "price": "$21.15",
-    "metadata": ["24 x 320ml", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13146590_XL1_20250801.jpg?w=320&q=60",
-    "name": "PurSoft Kitchen Towel Soft Pack (1 ply)",
-    "price": "$2.25",
-    "metadata": ["200 per pack"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/458564_XL1_20230106.jpg?w=320&q=60", "name": "Farmhouse Milk - Fresh", "price": "$3.73", "metadata": ["946ml"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13176928_XL1.jpg?w=320&q=60",
-    "name": "Seara Frozen Chicken - Legs (Boneless)",
-    "price": "$11.71",
-    "metadata": ["2kg", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13104076_XL1_20240328.jpg?w=320&q=60",
-    "name": "Sadia IQF Chicken Wing (Mid Joint)",
-    "price": "$9.45",
-    "metadata": ["1kg", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90196578_XL1_20260313155617_08265a0f29d0b9f5fda200cb34df912f.jpg?w=320&q=60",
-    "name": "Serve by Hai Sia Tiger Prawn Hotpot Steamboat - Fresh",
-    "price": "$6.76",
-    "metadata": ["200 G"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90229458_XL1_20260313140719_4d2bb11b57bbfc75a4b1b423e9a689ac.jpg?w=320&q=60",
-    "name": "Port65 Black Cod Portion - Frozen",
-    "price": "$21.80",
-    "metadata": ["150 G"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13237902_XL1_20251225.jpg?w=320&q=60",
-    "name": "FairPrice Buffalo Drumette",
-    "price": "$8.40",
-    "metadata": ["500g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13234083_XL1_20251203.jpg?w=320&q=60",
-    "name": "Seah's Singapore Bak Kuet Teh Spices",
-    "price": "$2.99",
-    "metadata": ["32g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13244695_XL1_20240124.jpg?w=320&q=60",
-    "name": "Softlan Fabric Conditioner Softener Refill - Lavender Fresh",
-    "price": "$3.53",
-    "metadata": ["1.8L"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13267874_XL1_20251203.jpg?w=320&q=60",
-    "name": "Lee Kum Kee Supreme Authentic First Draw Soy Sauce - Salt Reduced",
-    "price": "$7.60",
-    "metadata": ["500ml"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13283998_XL1_20260223.jpg?w=320&q=60",
-    "name": "Driscoll's China Jumbo Blueberries",
-    "price": "$9.95",
-    "metadata": ["200g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13226865_XL1_20230117.jpg?w=320&q=60",
-    "name": "Skippy Peanut Butter - Creamy",
-    "price": "$4.79",
-    "metadata": ["280g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90020895_XL1_20260313140039_40970f8591e26ca5bda7a4ef9de5d80f.jpg?w=320&q=60",
-    "name": "Jin Huang Thai Jasmine Fragrant Rice",
-    "price": "$27.04",
-    "metadata": ["10 KG"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13021952_XL1_20220405.jpg?w=320&q=60",
-    "name": "Munchy's Oat Krunch Crackers-StrawberryBlackcurrent",
-    "price": "$5.60",
-    "metadata": ["390g (15 per pack)", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90209180_XL1_20260313131210_5f78b9e73458eaab0d30cbc27521ebae.jpg?w=320&q=60",
-    "name": "Seafood Boy - Frozen Dory Sutchi Cube (IQF)",
-    "price": "$11.90",
-    "metadata": ["1 KG"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90007993_XL1_20260313145332_3388f540c14cb9da7b32feb712ced053.jpg?w=320&q=60",
-    "name": "Daawat Everyday Gold Basmati Rice 5Kg -- By Dashmesh",
-    "price": "$13.95",
-    "metadata": ["5 KG"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13207839_XL1_20250925.jpg?w=320&q=60",
-    "name": "Vinda Prestige Bathroom Tissues - 3 Ply",
-    "price": "$15.79",
-    "metadata": ["16 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13027075_XL1_20260109.jpg?w=320&q=60",
-    "name": "Top Detergent Powder Packet Super Low Suds - Colour Protect",
-    "price": "$9.95",
-    "metadata": ["3kg"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13227635_XL1_20241208.jpg?w=320&q=60",
-    "name": "Breeze Concentrated 5 in 1 Power Laundry Capsules - Sakura",
-    "price": "$21.09",
-    "metadata": ["40 per pack", "$0.45/pc"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90217654_XL1_20260313165714_0d8157382e8ea30b355ecc82f799a7ac.jpg?w=320&q=60",
-    "name": "SunRice Hinata Short Grain Rice",
-    "price": "$12.80",
-    "metadata": ["5 KG"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13239709_XL1_20230915.jpg?w=320&q=60",
-    "name": "Dynamo Laundry Detergent Refill - Eau De Rose",
-    "price": "$16.35",
-    "metadata": ["3.3kg"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13021603_XL1_20211014.jpg?w=320&q=60",
-    "name": "Dettol Anti-Bacterial Hand Wash Refill - Original",
-    "price": "$4.44",
-    "metadata": ["2 x 225ml"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90140198_XL1_20260313160713_bc6253553d9f5920c336d8a2241df3b6.jpg?w=320&q=60",
-    "name": "Okeanoss Toman Slice",
-    "price": "$16.95",
-    "metadata": ["1 KG"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13242718_XL1_20251009.jpg?w=320&q=60",
-    "name": "Cloversoft 4 in 1 Supreme Laundry Capsules - Rose Grape",
-    "price": "$9.95",
-    "metadata": ["20 per pack", "$0.50/pc"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13271362_XL1_20250713.jpg?w=320&q=60",
-    "name": "Magnolia Fresh Milk � Cholest Care Low Fat Hi-Calcium",
-    "price": "$3.95",
-    "metadata": ["946ml", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13226290_XL1_20251125.jpg?w=320&q=60",
-    "name": "Old Town 3 in 1 Instant White Coffee - Salted Caramel",
-    "price": "$9.25",
-    "metadata": ["13 x 31.6g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13252981_XL1_20240527.jpg?w=320&q=60",
-    "name": "PurSoft Tissue Soft Pack - Satin Soft (3 ply)",
-    "price": "$3.95",
-    "metadata": ["3 x 140 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13214826_XL1_20240912.jpg?w=320&q=60",
-    "name": "Walch Multi-Purpose Disinfectant Wipes - High Efficiency",
-    "price": "$10.08",
-    "metadata": ["84 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13111322_XL1_20260115.jpg?w=320&q=60",
-    "name": "Royal Umbrella Thai Hom Mali Rice",
-    "price": "$16.95",
-    "metadata": ["5kg"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13260251_XL1_20251218.jpg?w=320&q=60",
-    "name": "FairPrice Facial Tissue 2ply Soft Pack - Hibiscus",
-    "price": "$3.75",
-    "metadata": ["4 x 200 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13228162_XL1_20230116.jpg?w=320&q=60",
-    "name": "Bega Super Slices Cheese - Slices",
-    "price": "$6.11",
-    "metadata": ["12 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11676137_XL1_20251127.jpg?w=320&q=60",
-    "name": "KCA Tissue Rolls - Kitchen",
-    "price": "$5.80",
-    "metadata": ["6 x 70 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13208850_XL1_20240223.jpg?w=320&q=60",
-    "name": "Ginvera Cream Hand Soap - Oat Milk",
-    "price": "$3.90",
-    "metadata": ["500g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13092218_XL1_20260212.jpg?w=320&q=60",
-    "name": "Pasar South Korea Strawberry",
-    "price": "$10.95",
-    "metadata": ["250g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13086205_XL1_20210705.jpg?w=320&q=60",
-    "name": "FairPrice Jasmine Fragrant Rice",
-    "price": "$9.20",
-    "metadata": ["5kg"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13269798_XL1_20260109.jpg?w=320&q=60",
-    "name": "Top Nanox Laundry Capsules - Plant-Based Power(Chamomile Harmony)",
-    "price": "$22.11",
-    "metadata": ["50 per pack", "$0.45/pc"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13189468_XL1_20260115.jpg?w=320&q=60",
-    "name": "FairPrice Premium Kitchen Towel",
-    "price": "$5.85",
-    "metadata": ["8 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13185539_XL1_20250313.jpg?w=320&q=60",
-    "name": "Moccona Instant Coffee - Espreso Style",
-    "price": "$19.25",
-    "metadata": ["200g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13052052_XL1_20250717.jpg?w=320&q=60",
-    "name": "UFC Refresh 100% Natural Coconut Water",
-    "price": "$3.93",
-    "metadata": ["1L", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90036932_XL1_20260313171632_0d8b689cc88c878159dfc1409a03cb5b.jpg?w=320&q=60",
-    "name": "Zeagold Liquid Egg White",
-    "price": "$14.05",
-    "metadata": ["980 ML"]
   },
   {
     "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13179371_XL1_20260312.jpg?w=320&q=60",
     "name": "FairPrice Facial Tissue 3ply Soft Pack",
-    "price": "$4.80",
+    "price": 4.8,
     "metadata": ["4 x 130 per pack"]
   },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13086203_XL1_20220510.jpg?w=320&q=60", "name": "FairPrice Jasmine Rice", "price": "$17.95", "metadata": ["10kg"] },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13194386_XL1_20251127.jpg?w=320&q=60",
-    "name": "Pantene Shampoo - Silky Smooth Care",
-    "price": "$11.91",
-    "metadata": ["680ml"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13282313_XL1_20260210.jpg?w=320&q=60",
+    "name": "Meiji Low Fat High Protein Milk - Chocolate",
+    "price": 4.95,
+    "metadata": ["350ml", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13217594_XL1_20251106.jpg?w=320&q=60",
-    "name": "Kleenex Toilet Tissue Roll - Ultra Soft Cottony Clean",
-    "price": "$24.96",
-    "metadata": ["30 x 200 per pack"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13228312_XL1_20230105.jpg?w=320&q=60", "name": "Farm Fresh Kurma Milk", "price": "$3.97", "metadata": ["700ml"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13004987_XL1_20260101.jpg?w=320&q=60",
-    "name": "Fairprice Onwards Toilet Tissue Roll - 3 Ply",
-    "price": "$18.82",
-    "metadata": ["30 x 220 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11857923_XL1_20240912.jpg?w=320&q=60",
-    "name": "Amir's Premium Frozen Meat - Minced Beef",
-    "price": "$5.05",
-    "metadata": ["300g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13245146_XL1_20250801.jpg?w=320&q=60",
-    "name": "Freedom Range Cage-Free Eggs - Extra Large",
-    "price": "$9.50",
-    "metadata": ["800g (12 per pack)"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13166796_XL1_20250801.jpg?w=320&q=60", "name": "Origins Natural Raw Honey", "price": "$17.65", "metadata": ["1kg"] },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/49181_XL1_20220926.jpg?w=320&q=60", "name": "Golden Churn Butter", "price": "$12.73", "metadata": ["454g", "Halal"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13102871_XL1_20260312.jpg?w=320&q=60",
-    "name": "Milo Instant Chocolate Malt with Milk - Gao Siew Dai",
-    "price": "$7.95",
-    "metadata": ["13 x 33g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13018761_XL1_20250925.jpg?w=320&q=60",
-    "name": "Magiclean Bathroom Stain & Mold Remover Refill",
-    "price": "$7.97",
-    "metadata": ["2 x 400ml"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13162937_XL1_20251127.jpg?w=320&q=60",
-    "name": "Premium Shine Muscat Korea Grape",
-    "price": "$9.95",
-    "metadata": ["450g"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13216391_XL1_20250828.jpg?w=320&q=60", "name": "China Holland Potato", "price": "$1.20", "metadata": ["800g"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13280367_XL1_20260305.jpg?w=320&q=60",
-    "name": "Pasar Chun Jian Papagan Mandarin Orange",
-    "price": "$17.90",
-    "metadata": ["8 - 10 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13106960_XL1_20251114.jpg?w=320&q=60",
-    "name": "Quaker Oats - 3 in 1 Original Oat Cereal Drink",
-    "price": "$6.06",
-    "metadata": ["14 x 28g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13110987_XL1_20250127.jpg?w=320&q=60",
-    "name": "SongHe AAA Thai Hom Mali Rice - New Crop",
-    "price": "$18.80",
-    "metadata": ["5kg", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13151864_XL1_20260305.jpg?w=320&q=60",
-    "name": "Nescafe Gold Original",
-    "price": "$18.80",
-    "metadata": ["200g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13250348_XL1_20251204.jpg?w=320&q=60",
-    "name": "Meiji Greek Style Yoghurt - Natural",
-    "price": "$9.50",
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13177941_XL1_20240409.jpg?w=320&q=60",
+    "name": "Freezepak Crispy Chicken Nuggets",
+    "price": 10.9,
     "metadata": ["1kg", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13093717_XL1_20251026.jpg?w=320&q=60",
-    "name": "FairPrice 100% Coconut Water",
-    "price": "$3.56",
-    "metadata": ["1L", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13176928_XL1.jpg?w=320&q=60",
+    "name": "Seara Frozen Chicken - Legs (Boneless)",
+    "price": 11.71,
+    "metadata": ["2kg", "Halal"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241563_XL1_20250801.jpg?w=320&q=60", "name": "FairPrice Vegetable Oil", "price": 15.8, "metadata": ["5L", "Halal"] },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13092218_XL1_20260212.jpg?w=320&q=60", "name": "Pasar South Korea Strawberry", "price": 10.95, "metadata": ["250g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13239702_XL1_20260312.jpg?w=320&q=60",
+    "name": "Dynamo Laundry Detergent Refill - Anti-Bacterial",
+    "price": 11.99,
+    "metadata": ["2.2kg"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13000321_XL1_20250731.jpg?w=320&q=60", "name": "Pasar Prepacked Carrots", "price": 0.95, "metadata": ["500g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13058254_XL1_20260312.jpg?w=320&q=60",
+    "name": "Milo 3 in 1 Instant Chocolate Malt with Milk- Regular",
+    "price": 7.95,
+    "metadata": ["15 x 27g", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13130092_XL1_20250213.jpg?w=320&q=60",
-    "name": "Mr Muscle Deep Action Gel - Lavender (Value Pack)",
-    "price": "$9.38",
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11951709_XL1_20250925.jpg?w=320&q=60",
+    "name": "Magiclean Toilet Bleach Power Cleaner",
+    "price": 9.43,
     "metadata": ["3 x 500ml"]
   },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10632060_XL1_20251009.jpg?w=320&q=60", "name": "Fresh Blueberries", "price": "$2.95", "metadata": ["125g"] },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13282954_XL1_20260212.jpg?w=320&q=60",
-    "name": "Sakura Fresh Chicken - Thigh",
-    "price": "$5.40",
-    "metadata": ["350g"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13111322_XL1_20260115.jpg?w=320&q=60",
+    "name": "Royal Umbrella Thai Hom Mali Rice",
+    "price": 16.95,
+    "metadata": ["5kg"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13092896_XL1_20250801.jpg?w=320&q=60",
-    "name": "FairPrice Facial Tissue 3ply Box",
-    "price": "$5.50",
-    "metadata": ["4 x 140 per pack"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13211457_XL1_20251211.jpg?w=320&q=60",
+    "name": "Oatside Oat Milk - Barista Edition",
+    "price": 6.1,
+    "metadata": ["1L", "Halal"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241559_XL1_20250201.jpg?w=320&q=60", "name": "FairPrice Canola Oil", "price": 20.5, "metadata": ["5L", "Halal"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13019792_XL1_20251124.jpg?w=320&q=60",
+    "name": "Dove Body Wash - Beauty Nourishing",
+    "price": 9.95,
+    "metadata": ["1L"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/290130_XL1.jpg?w=320&q=60",
-    "name": "Lipton Yellow Label Tea Bags - International Blend",
-    "price": "$3.13",
-    "metadata": ["25 per pack", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13056515_XL1_20250801.jpg?w=320&q=60",
+    "name": "Scott Kitchen Towel Rolls",
+    "price": 6.06,
+    "metadata": ["8 per pack"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11838626_XL1_20250213.jpg?w=320&q=60",
-    "name": "Milo Chocolate Malt Drink Powder with Milk - Regular",
-    "price": "$9.95",
-    "metadata": ["900g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13065350_XL1_20231110.jpg?w=320&q=60",
-    "name": "Dasoon Premium Fresh Eggs",
-    "price": "$4.60",
-    "metadata": ["900g (15 per pack)"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13216356_XL1_20250523.jpg?w=320&q=60",
-    "name": "Jacob's Cream Crackers Multipack - Original",
-    "price": "$6.45",
-    "metadata": ["504g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13146960_XL1_20260109.jpg?w=320&q=60",
-    "name": "Top Concentrated Liquid Detergent Refill - Super Low Suds",
-    "price": "$4.84",
-    "metadata": ["1.5kg"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13209245_XL1_20211116.jpg?w=320&q=60",
-    "name": "Calbee Big Bag Potato Chips - Hot & Spicy",
-    "price": "$5.20",
-    "metadata": ["180g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13080719_XL1_20260305.jpg?w=320&q=60",
-    "name": "Zespri Sungold Kiwi Fruit",
-    "price": "$6.95",
-    "metadata": ["4 per pack"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12228635_XL1_20250924.jpg?w=320&q=60", "name": "Fresh Tomatoes", "price": "$1.85", "metadata": ["600g"] },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13269991_XL1_20250522.jpg?w=320&q=60", "name": "Okome Shortgrain Rice", "price": "$4.06", "metadata": ["1kg"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13232350_XL1_20250722.jpg?w=320&q=60",
-    "name": "Nescafe Gold 3 in 1 Golden Roasted Arabica - Original",
-    "price": "$8.45",
-    "metadata": ["20 x 24g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13149822_XL1_20260312.jpg?w=320&q=60",
-    "name": "Pursoft 100% Virgin Pulp Unscented Bathroom Tissue - 4Ply",
-    "price": "$17.71",
-    "metadata": ["24 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13147486_XL1_20240319.jpg?w=320&q=60",
-    "name": "Milo Instant Chocolate Malt Drink Powder with Milk - Gao Kosong",
-    "price": "$6.95",
-    "metadata": ["400g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13039640_XL1_20260105.jpg?w=320&q=60",
-    "name": "Nescafe 3 in 1 Instant Coffee - Original",
-    "price": "$7.05",
-    "metadata": ["30 x 16.5g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90022078_XL1_20260313123423_2f9f11dd8daf242533d456e50caa5993.jpg?w=320&q=60",
-    "name": "Sanwa Malt Soda Cracker(Original)",
-    "price": "$5.10",
-    "metadata": ["480 G"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11654448_XL1_20250801.jpg?w=320&q=60",
-    "name": "FairPrice Facial Tissue 2ply Box",
-    "price": "$5.35",
-    "metadata": ["5 x 200 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13146814_XL1_20250801.jpg?w=320&q=60",
-    "name": "Red Tractor Foods Rolled Oats - Organic Creamy Style",
-    "price": "$9.80",
-    "metadata": ["1kg", "Organic"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13083578_XL1_20250821.jpg?w=320&q=60",
-    "name": "Authentic Tea House Ayataka No Sugar Japanese Green Tea",
-    "price": "$9.10",
-    "metadata": ["12 x 300ml", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90160216_XL1_20260313171637_089f66a849902a4e002b5e6141e3b84f.jpg?w=320&q=60",
-    "name": "Agro Fresh Old Ginger",
-    "price": "$3.15",
-    "metadata": ["210 G"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12078999_XL1_20260305.jpg?w=320&q=60",
-    "name": "FairPrice Onwards Bathroom Tissue - 2ply",
-    "price": "$23.11",
-    "metadata": ["30 x 500 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/114843_XL1_20250118.jpg?w=320&q=60",
-    "name": "Nestle Cereal - Koko Krunch",
-    "price": "$6.46",
-    "metadata": ["300g", "Halal"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12040245_XL1_20260312.jpg?w=320&q=60", "name": "Korea Premium Strawberry", "price": "$17.95", "metadata": ["330g"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12013140_XL1_20230315.jpg?w=320&q=60",
-    "name": "Horlicks 3 in 1 Instant Malted Drink - Original",
-    "price": "$5.40",
-    "metadata": ["10 x 28g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241559_XL1_20250201.jpg?w=320&q=60",
-    "name": "FairPrice Canola Oil",
-    "price": "$20.50",
-    "metadata": ["5L", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13249061_XL1_20250925.jpg?w=320&q=60",
-    "name": "Magiclean Daily Care Toilet Foam Spray - Refreshing Citrus",
-    "price": "$5.60",
-    "metadata": ["350ml"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13162990_XL1_20250213.jpg?w=320&q=60",
-    "name": "Chipsmore Cookies Multipack - Double Chocolate",
-    "price": "$4.70",
-    "metadata": ["224g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90177286_XL1_20260313005118_c1328b432ad06beed84857caf4cff7b8.jpg?w=320&q=60",
-    "name": "MillionParcel Heavy Duty Garbage Bag 70 x 90cm",
-    "price": "$6.60",
-    "metadata": ["50 PC"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13207903_XL1_20211230.jpg?w=320&q=60",
-    "name": "Bertolli Extra Light Olive Oil Spray",
-    "price": "$6.95",
-    "metadata": ["132g"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12208562_XL1_20250801.jpg?w=320&q=60",
-    "name": "Kleenex Facial Tissue Box - Floral (3ply)",
-    "price": "$6.57",
-    "metadata": ["5 x 100 per pack"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90166686_XL1_20260313152222_96f007b34f0eef0d42b05116f4bb8ee2.jpg?w=320&q=60",
-    "name": "SunnyFarm Sweet Potato Fries",
-    "price": "$12.95",
-    "metadata": ["1 KG"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13177826_XL1_20260312.jpg?w=320&q=60",
+    "name": "Berryfield Whole Frozen Strawberries",
+    "price": 26.82,
+    "metadata": ["1kg"]
   },
   {
     "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13097846_XL1_20260312.jpg?w=320&q=60",
     "name": "Double FP Thai Hom Mali Premium Quality Fragrant Rice",
-    "price": "$14.10",
+    "price": 14.1,
     "metadata": ["5kg"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13198596_XL1_20260226.jpg?w=320&q=60",
-    "name": "Yeo's Packet Drink - 100% Natural Coconut Water",
-    "price": "$6.57",
-    "metadata": ["4 x 330ml", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13052052_XL1_20250717.jpg?w=320&q=60",
+    "name": "UFC Refresh 100% Natural Coconut Water",
+    "price": 3.93,
+    "metadata": ["1L", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13025138_XL1_20260108.jpg?w=320&q=60",
-    "name": "Sofsil Fabric Softener Refill - Silky Soft",
-    "price": "$2.59",
-    "metadata": ["1.5L"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13093697_XL1_20250801.jpg?w=320&q=60",
+    "name": "Kleenex Toilet Tissue Rolls - Ultra Soft (3 ply)",
+    "price": 15.06,
+    "metadata": ["20 x 200 per pack"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13022014_XL1_20240912.jpg?w=320&q=60", "name": "F & N Magnolia Fresh Milk", "price": 3.63, "metadata": ["946ml"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13167850_XL1_20260305.jpg?w=320&q=60",
+    "name": "CocoThumb Fresh Coconut",
+    "price": 3.9,
+    "metadata": ["1 per pack", "Organic"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13140200_XL1_20240123.jpg?w=320&q=60",
-    "name": "Chef Delights Frozen Beef Shabu Shabu",
-    "price": "$7.02",
-    "metadata": ["300g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13174421_XL1_20250731.jpg?w=320&q=60",
+    "name": "Seara Frozen Chicken Wings",
+    "price": 10.45,
+    "metadata": ["2kg", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13217469_XL1_20230329.jpg?w=320&q=60",
-    "name": "Seawaves Premium Frozen Cuttlefish Ball",
-    "price": "$12.75",
-    "metadata": ["650g"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13039640_XL1_20260105.jpg?w=320&q=60",
+    "name": "Nescafe 3 in 1 Instant Coffee - Original",
+    "price": 7.05,
+    "metadata": ["30 x 16.5g", "Halal"]
   },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13164447_XL1_20260305.jpg?w=320&q=60", "name": "Pasar Red Seedless Grapes", "price": "$4.95", "metadata": ["500g"] },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10632060_XL1_20251009.jpg?w=320&q=60", "name": "Fresh Blueberries", "price": 2.95, "metadata": ["125g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13110987_XL1_20250127.jpg?w=320&q=60",
+    "name": "SongHe AAA Thai Hom Mali Rice - New Crop",
+    "price": 18.8,
+    "metadata": ["5kg", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/209280_XL1_20250626.jpg?w=320&q=60",
+    "name": "Valley Chef Frozen Chicken Franks",
+    "price": 4.5,
+    "metadata": ["340.2g", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13162937_XL1_20251127.jpg?w=320&q=60",
+    "name": "Premium Shine Muscat Korea Grape",
+    "price": 9.95,
+    "metadata": ["450g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13093717_XL1_20251026.jpg?w=320&q=60",
+    "name": "FairPrice 100% Coconut Water",
+    "price": 3.56,
+    "metadata": ["1L", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11654448_XL1_20250801.jpg?w=320&q=60",
+    "name": "FairPrice Facial Tissue 2ply Box",
+    "price": 5.35,
+    "metadata": ["5 x 200 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13086897_XL1_20221229.jpg?w=320&q=60",
+    "name": "Farm Fresh Pure Fresh Milk",
+    "price": 6.1,
+    "metadata": ["2L", "Halal"]
+  },
   {
     "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12089153_XL1_20260121.jpg?w=320&q=60",
     "name": "Kirei Kirei Anti-bacterial Hand Soap Refill - Moisturizing Peach",
-    "price": "$2.34",
+    "price": 2.34,
     "metadata": ["200ml"]
   },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/91570_XL1_20250731.jpg?w=320&q=60", "name": "Kara UHT Coconut Packet Cream", "price": 1.2, "metadata": ["200ml"] },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13232188_XL1_20250801.jpg?w=320&q=60",
-    "name": "SmartChoice Kitchen Towels",
-    "price": "$4.05",
-    "metadata": ["6 x 70 per pack"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/90199913_XL1_20260318111444_001580ee2f96e71b345d931646460f13.jpg?w=320&q=60",
+    "name": "FarmFresh Chicken Breast Boneless",
+    "price": 3.35,
+    "metadata": ["200 G", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13067851_XL1_20220318.jpg?w=320&q=60",
-    "name": "UIC Big Value Detergent Powder - Anti Bacterial (Citrus Splash)",
-    "price": "$2.29",
-    "metadata": ["1kg"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13031760_XL1_20221003.jpg?w=320&q=60",
+    "name": "Marigold Evaporated Milk - King Of Kings (Full Cream)",
+    "price": 2.52,
+    "metadata": ["395g", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10734550_XL1_20250821.jpg?w=320&q=60",
-    "name": "Chef China Garlic - Pure White",
-    "price": "$2.85",
-    "metadata": ["500g"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13199730_XL1_20241105.jpg?w=320&q=60",
+    "name": "Kleenex Toilet Tissue Rolls - Ultra Soft",
+    "price": 15.06,
+    "metadata": ["20 + 2 x 200 per pack"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12241370_XL1_20210118.jpg?w=320&q=60",
-    "name": "Koka Instant Purple Wheat Noodles - Plain",
-    "price": "$2.55",
-    "metadata": ["5 x 50g", "Halal"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13076653_XL1_20210915.jpg?w=320&q=60",
-    "name": "BusyB Premium Natural Honey",
-    "price": "$4.99",
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13104076_XL1_20240328.jpg?w=320&q=60",
+    "name": "Sadia IQF Chicken Wing (Mid Joint)",
+    "price": 9.45,
     "metadata": ["1kg", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10549750_XL1_20260120.jpg?w=320&q=60",
+    "name": "Meiji Low Fat Fresh Milk - Regular",
+    "price": 6.97,
+    "metadata": ["2L", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13146590_XL1_20250801.jpg?w=320&q=60",
+    "name": "PurSoft Kitchen Towel Soft Pack (1 ply)",
+    "price": 2.25,
+    "metadata": ["200 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13110985_XL1_20250127.jpg?w=320&q=60",
+    "name": "SongHe AAA Thai Hom Mali Rice",
+    "price": 18.6,
+    "metadata": ["5kg", "Halal"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/458564_XL1_20230106.jpg?w=320&q=60", "name": "Farmhouse Milk - Fresh", "price": 3.73, "metadata": ["946ml"] },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13164447_XL1_20260305.jpg?w=320&q=60", "name": "Pasar Red Seedless Grapes", "price": 4.95, "metadata": ["500g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13104103_XL1_20250131.jpg?w=320&q=60",
+    "name": "Sadia Skinless Chicken Breast",
+    "price": 8.31,
+    "metadata": ["1kg", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12208562_XL1_20250801.jpg?w=320&q=60",
+    "name": "Kleenex Facial Tissue Box - Floral (3ply)",
+    "price": 6.57,
+    "metadata": ["5 x 100 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13172131_XL1_20260226.jpg?w=320&q=60",
+    "name": "Paseo Bathroom Tissue Roll - 4 Ply",
+    "price": 8.65,
+    "metadata": ["10 x 200 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/384959_XL1_20251209.jpg?w=320&q=60",
+    "name": "FairPrice Royal Premium Bathroom Tissue - Heavy Weight 2ply",
+    "price": 5.05,
+    "metadata": ["10 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13099154_XL1_20251211.jpg?w=320&q=60",
+    "name": "PurSoft Tissue Soft Pack - Outdoor (3 ply)",
+    "price": 5.34,
+    "metadata": ["4 x 120 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13092896_XL1_20250801.jpg?w=320&q=60",
+    "name": "FairPrice Facial Tissue 3ply Box",
+    "price": 5.5,
+    "metadata": ["4 x 140 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12112608_XL1_20250801.jpg?w=320&q=60",
+    "name": "FairPrice Onwards Kitchen Towel",
+    "price": 6.9,
+    "metadata": ["6 + free 2 per pack"]
   },
   {
     "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13017673_XL1_20250710.jpg?w=320&q=60",
     "name": "Kleenex Facial Tissue Box - Lifestyle (3ply)",
-    "price": "$6.57",
+    "price": 6.57,
     "metadata": ["5 x 100 per pack"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90182235_XL1_20260313140718_6288d7c3a79dd09e1bfd55eb7e2d1f30.jpg?w=320&q=60",
-    "name": "Houten Chilli Tapioca Chips - Bundle of 2",
-    "price": "$10.15",
-    "metadata": ["2 x 280 G"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13183734_XL1_20251211.jpg?w=320&q=60",
+    "name": "PurSoft Facial Tissue Soft Pack (3 ply)",
+    "price": 5.34,
+    "metadata": ["4 x 120 per pack"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11672523_XL1_20220823.jpg?w=320&q=60",
-    "name": "Gerolsteiner Sparkling Natural Mineral Bottle Water",
-    "price": "$14.16",
-    "metadata": ["6 x 1.5L (CTN)"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13266442_XL1_20250910.jpg?w=320&q=60",
+    "name": "Thirsty Hippo Moisture Absorber - Charcoal",
+    "price": 19.94,
+    "metadata": ["6 x 280g + Free 2 x 280g"]
   },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13061918_XL1_20230914.jpg?w=320&q=60", "name": "Nutella & Go Biscuit", "price": "$2.55", "metadata": ["48g"] },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13261357_XL1_20260312.jpg?w=320&q=60", "name": "Seaco Snow Crab Claw", "price": 27.9, "metadata": ["200g"] },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12632080_XL1_20260109.jpg?w=320&q=60",
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13263736_XL1_20251127.jpg?w=320&q=60",
+    "name": "Nutella Hazelnut Spread",
+    "price": 17.25,
+    "metadata": ["1000g", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13239794_XL1_20251029.jpg?w=320&q=60",
+    "name": "FairPrice Spicy Chicken Katsu - Spicy",
+    "price": 7.25,
+    "metadata": ["410g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12391096_XL1_20260109.jpg?w=320&q=60",
     "name": "Mama Lemon Dishwashing Liquid Refill - Natural Lemon",
-    "price": "$4.99",
-    "metadata": ["4 x 600ml"]
-  },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/64684_XL1_20210610.jpg?w=320&q=60", "name": "Singlong Gula Malacca", "price": "$3.97", "metadata": ["400g"] },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/71663_XL1_20250731.jpg?w=320&q=60",
-    "name": "SIS Brown Sugar - Fine Textured",
-    "price": "$4.25",
-    "metadata": ["800g", "Halal"]
+    "price": 4.13,
+    "metadata": ["3 x 600ml"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13146935_XL1_20260109.jpg?w=320&q=60",
-    "name": "Top Concentrated Liquid Detergent Refill - Anti-Bacterial",
-    "price": "$4.84",
-    "metadata": ["1.6kg"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13236527_XL1_20251120.jpg?w=320&q=60",
+    "name": "Vinda Prestige 4d Embossed Toilet Tissue - 3 Ply",
+    "price": 15.79,
+    "metadata": ["20 x 190 per pack"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13220489_XL1_20250801.jpg?w=320&q=60",
-    "name": "Bio Green Air Fryer Baking Paper - 16cm x 4.5cm",
-    "price": "$6.67",
-    "metadata": ["50 per pack"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13225767_XL1_20251023.jpg?w=320&q=60",
+    "name": "Lor Essenso 2 in 1 Instant Microground Coffee + Creamer",
+    "price": 9.1,
+    "metadata": ["20 x 16g", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13167850_XL1_20260305.jpg?w=320&q=60",
-    "name": "CocoThumb Fresh Coconut",
-    "price": "$3.90",
-    "metadata": ["1 per pack", "Organic"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13255994_XL1_20250125.jpg?w=320&q=60",
+    "name": "SongHe 8020 Mixed Fragrant + Red Rice",
+    "price": 18.8,
+    "metadata": ["5kg", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13152998_XL1_20250522.jpg?w=320&q=60",
-    "name": "Nongshim Shin Ramyun Instant Noodle - Kimchi (Halal)",
-    "price": "$5.50",
-    "metadata": ["5 x 120g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13239710_XL1_20260312.jpg?w=320&q=60",
+    "name": "Dynamo Laundry Detergent Refill - Color Care",
+    "price": 11.99,
+    "metadata": ["2.4kg"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13255525_XL1_20250925.jpg?w=320&q=60", "name": "Birds Eye Cod Fish Fingers", "price": 22.65, "metadata": ["504g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13252350_XL1_20251106.jpg?w=320&q=60",
+    "name": "Kleenex Toilet Tissue Rolls (4 ply) + Moist Toilet Wipes",
+    "price": 24.96,
+    "metadata": ["30 x 180 per pack"]
   },
   {
     "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13262091_XL1_20260203.jpg?w=320&q=60",
     "name": "Ocean Fresh Delite Frozen Hokkaido Scallop",
-    "price": "$42.90",
+    "price": 42.9,
     "metadata": ["700g"]
   },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/53645_XL1_20210506.jpg?w=320&q=60", "name": "Kikkoman Soy Sauce", "price": "$6.57", "metadata": ["1L"] },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241340_XL1_20260114.jpg?w=320&q=60",
-    "name": "Coca-Cola Original Taste - Less Sugar",
-    "price": "$21.15",
-    "metadata": ["24 x 320ml"]
-  },
-  {
-    "imgSrc": "https://media.nedigital.sg/fairprice/90151392_XL1_20260313040128_6456688cce8305fda16db229a74d6440.jpg?w=320&q=60",
-    "name": "Churo Frozen Cut Pumpkin",
-    "price": "$4.85",
+    "imgSrc": "https://media.nedigital.sg/fairprice/90221636_XL1_20260318103404_95502ca2df36a81bb7a7ea6f8cde400f.jpg?w=320&q=60",
+    "name": "Fisher's Catch Salmon Portion Chunks",
+    "price": 28.5,
     "metadata": ["1 KG"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13072764_XL1_20250801.jpg?w=320&q=60",
-    "name": "Glico Pocky Biscuit Sticks Share Pack - Chocolate",
-    "price": "$4.89",
-    "metadata": ["8 x 22g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13213034_XL1_20250807.jpg?w=320&q=60",
+    "name": "Nestle Nestum 3 in 1 Instant Cereal Milk Drink - Oats",
+    "price": 6.3,
+    "metadata": ["12 x 30g", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13224358_XL1_20240502.jpg?w=320&q=60",
-    "name": "Brownes Dairy Greek Yoghurt - Plain",
-    "price": "$11.15",
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13207936_XL1_20251119.jpg?w=320&q=60",
+    "name": "Paseo Bathroom Tissue Roll - 4 Ply",
+    "price": 25.97,
+    "metadata": ["30 x 200 per pack"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13250326_XL1_20240409.jpg?w=320&q=60", "name": "Chobani Greek Yogurt - Vanilla", "price": 16.5, "metadata": ["907g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90164533_XL1_20260316172305_00205f7a98b81f7d3c59d1b2ad9d0a19.jpg?w=320&q=60",
+    "name": "Churo Boneless Pork Shoulder",
+    "price": 11.7,
+    "metadata": ["1 KG"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13208988_XL1_20250116.jpg?w=320&q=60",
+    "name": "SongHe Shokaku Premium Sushi Rice",
+    "price": 14.8,
+    "metadata": ["4.5kg"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13225133_XL1_20251223.jpg?w=320&q=60",
+    "name": "Brownes The Greek Yoghurt - Honey",
+    "price": 13.49,
     "metadata": ["1kg"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13145930_XL1_20250905.jpg?w=320&q=60",
-    "name": "Coca-Cola Mini Can Drink - Zero Sugar",
-    "price": "$4.95",
-    "metadata": ["6 x 180ml", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13272573_XL1_20250722.jpg?w=320&q=60",
+    "name": "Nescafe Instant Coffee - Kopi O Gao Siew Dai",
+    "price": 6.95,
+    "metadata": ["20 x 14g", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13268024_XL1_20250801.jpg?w=320&q=60",
-    "name": "Oatside Oat Milk - Matcha",
-    "price": "$1.77",
-    "metadata": ["250ml", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13266451_XL1_20250317.jpg?w=320&q=60",
+    "name": "Greenfield Full Cream UHT Milk",
+    "price": 2.8,
+    "metadata": ["4 x 105ml", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13201062_XL1_20250911.jpg?w=320&q=60",
-    "name": "Oatly Dairy Free Oat Milk Drink - Barista Edition",
-    "price": "$5.50",
-    "metadata": ["1L", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13191444_XL1_20201215.jpg?w=320&q=60",
+    "name": "Ayam Brand Sardines in Tomato Sauce",
+    "price": 2.27,
+    "metadata": ["155g"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10001701_XL1_20210504.jpg?w=320&q=60",
-    "name": "Baba's Packet Curry Powder - Meat",
-    "price": "$2.44",
-    "metadata": ["250g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241340_XL1_20260114.jpg?w=320&q=60",
+    "name": "Coca-Cola Original Taste - Less Sugar",
+    "price": 21.15,
+    "metadata": ["24 x 320ml"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13241561_XL1_20251021.jpg?w=320&q=60", "name": "FairPrice Canola Oil", "price": 9.5, "metadata": ["2L", "Halal"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13004987_XL1_20260101.jpg?w=320&q=60",
+    "name": "Fairprice Onwards Toilet Tissue Roll - 3 Ply",
+    "price": 18.82,
+    "metadata": ["30 x 220 per pack"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13087099_XL1_20250911.jpg?w=320&q=60",
-    "name": "Kleen-Up Wet Floor Wipes - Calming Lemongrass",
-    "price": "$3.51",
-    "metadata": ["15 per pack"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13106181_XL1_20210210.jpg?w=320&q=60",
+    "name": "Ocean Fresh Delite Frozen Salmon Portion",
+    "price": 21.34,
+    "metadata": ["500g"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13270684_XL1_20250630.jpg?w=320&q=60", "name": "Altar Produce Mexico Asparagus", "price": 6.99, "metadata": ["250g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13189468_XL1_20260115.jpg?w=320&q=60",
+    "name": "FairPrice Premium Kitchen Towel",
+    "price": 5.85,
+    "metadata": ["8 per pack"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13194415_XL1_20250121.jpg?w=320&q=60", "name": "Supreme Gold 1121 Basmati Rice", "price": 19.0, "metadata": ["5kg"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13283998_XL1_20260223.jpg?w=320&q=60",
+    "name": "Driscoll's China Jumbo Blueberries",
+    "price": 9.95,
+    "metadata": ["200g"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13209920_XL1_20211201.jpg?w=320&q=60",
-    "name": "Prima Flour Superior Bread Flour",
-    "price": "$4.90",
-    "metadata": ["1kg", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13201972_XL1_20230426.jpg?w=320&q=60",
+    "name": "Samyang Hot Chicken Instant Ramen - Cream Carbonara",
+    "price": 8.98,
+    "metadata": ["140g", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10718163_XL1_20230519.jpg?w=320&q=60",
-    "name": "Colgate Anticavity Toothpaste - Advanced Whitening",
-    "price": "$7.97",
-    "metadata": ["2 x 160g"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13279669_XL1_20260102.jpg?w=320&q=60",
+    "name": "Asahi Can Beer - Super Dry Draft Beer",
+    "price": 22.2,
+    "metadata": ["6 x 330ml"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13238961_XL1_20231102.jpg?w=320&q=60",
-    "name": "Cheetos Cheese Flavoured Snacks - Original (Crunchy)",
-    "price": "$1.92",
-    "metadata": ["60g"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13260251_XL1_20251218.jpg?w=320&q=60",
+    "name": "FairPrice Facial Tissue 2ply Soft Pack - Hibiscus",
+    "price": 3.75,
+    "metadata": ["4 x 200 per pack"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13179879_XL1_20220922.jpg?w=320&q=60",
-    "name": "Kotex Antibacterial Fresh Liners - Scented (Longer & Wider)",
-    "price": "$4.03",
-    "metadata": ["26 per pack", "$0.16/pc"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/414649_XL1_20230129.jpg?w=320&q=60",
+    "name": "Ayam Brand Sardines in Tomato Sauce",
+    "price": 4.99,
+    "metadata": ["425g", "Halal"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13086203_XL1_20220510.jpg?w=320&q=60", "name": "FairPrice Jasmine Rice", "price": 17.95, "metadata": ["10kg"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13197740_XL1_20250704.jpg?w=320&q=60",
+    "name": "Colgate Total Toothpaste - Whitening",
+    "price": 22.0,
+    "metadata": ["4 x 150g"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13188832_XL1_20201204.jpg?w=320&q=60",
-    "name": "BoBo Chicken Wings - Prawn Paste",
-    "price": "$5.91",
-    "metadata": ["200g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13280367_XL1_20260305.jpg?w=320&q=60",
+    "name": "Pasar Chun Jian Papagan Mandarin Orange",
+    "price": 17.9,
+    "metadata": ["8 - 10 per pack"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13260758_XL1_20241112.jpg?w=320&q=60", "name": "Naturel Rice Bran Oil", "price": 10.5, "metadata": ["2L", "Halal"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13280143_XL1_20260114.jpg?w=320&q=60",
+    "name": "Coca-Cola Can Drink - Zero Sugar",
+    "price": 21.15,
+    "metadata": ["24 x 320ml", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13185120_XL1_20221003.jpg?w=320&q=60",
-    "name": "Tong Garden Nutrione Baked Nuts & Dried Fruit - Mango Tango",
-    "price": "$10.08",
-    "metadata": ["7 x 28g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12632080_XL1_20260109.jpg?w=320&q=60",
+    "name": "Mama Lemon Dishwashing Liquid Refill - Natural Lemon",
+    "price": 4.99,
+    "metadata": ["4 x 600ml"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10766958_XL1_20210106.jpg?w=320&q=60",
-    "name": "Bin Bin Rice Crackers - Spicy Seaweed",
-    "price": "$2.95",
-    "metadata": ["135g"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/90206332_XL1_20260318085358_defc523d607adba05f4b3c68f5b7415b.jpg?w=320&q=60",
+    "name": "Punched Foods Frozen Chicken Whole Leg (economical pack)",
+    "price": 15.8,
+    "metadata": ["2 KG", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10380588_XL1_20231125.jpg?w=320&q=60",
-    "name": "Mug Root Beer Bottle Drink - Sarsaparilla",
-    "price": "$2.07",
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13146960_XL1_20260109.jpg?w=320&q=60",
+    "name": "Top Concentrated Liquid Detergent Refill - Super Low Suds",
+    "price": 4.84,
+    "metadata": ["1.5kg"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10734550_XL1_20250821.jpg?w=320&q=60", "name": "Chef China Garlic - Pure White", "price": 2.85, "metadata": ["500g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90021555_XL1_20260318074212_704d555279529fbc19d088892d42588f.jpg?w=320&q=60",
+    "name": "Hego Black Angus Beef Flank Steak - Chilled",
+    "price": 18.95,
+    "metadata": ["400 G", "Halal"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13151864_XL1_20260305.jpg?w=320&q=60", "name": "Nescafe Gold Original", "price": 18.8, "metadata": ["200g", "Halal"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11838626_XL1_20250213.jpg?w=320&q=60",
+    "name": "Milo Chocolate Malt Drink Powder with Milk - Regular",
+    "price": 9.95,
+    "metadata": ["900g", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13184352_XL1_20230710.jpg?w=320&q=60",
+    "name": "Cadbury Dairy Milk Sharepack Chocolate",
+    "price": 7.05,
+    "metadata": ["144g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13164719_XL1_20240812.jpg?w=320&q=60",
+    "name": "Royal Umbrella Thai Hom Mali Rice",
+    "price": 9.58,
+    "metadata": ["2.5kg"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13086205_XL1_20210705.jpg?w=320&q=60", "name": "FairPrice Jasmine Fragrant Rice", "price": 9.2, "metadata": ["5kg"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13171278_XL1_20240912.jpg?w=320&q=60",
+    "name": "Tamar Valley Dairy Greek Style Yoghurt - Raspberry",
+    "price": 2.97,
+    "metadata": ["110g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12078999_XL1_20260305.jpg?w=320&q=60",
+    "name": "FairPrice Onwards Bathroom Tissue - 2ply",
+    "price": 23.11,
+    "metadata": ["30 x 500 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90183480_XL1_20260318095720_75bb46db61eabe34357fff5a02bf9da8.jpg?w=320&q=60",
+    "name": "Vegeponics Australia Pumpkin",
+    "price": 5.0,
+    "metadata": ["500 G"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90017870_XL1_20260318111422_03eb5fb85a2772b7b290ea0ae639eb5c.jpg?w=320&q=60",
+    "name": "Superchia Organic Chia Seed",
+    "price": 8.8,
+    "metadata": ["500 G", "Organic"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11676137_XL1_20251127.jpg?w=320&q=60",
+    "name": "KCA Tissue Rolls - Kitchen",
+    "price": 5.8,
+    "metadata": ["6 x 70 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13167631_XL1_20251022.jpg?w=320&q=60",
+    "name": "F & N Ice Mountain Sparkling Can Water - Lemon (No Sugar)",
+    "price": 6.27,
+    "metadata": ["6 x 325ml", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12041651_XL1_20250910.jpg?w=320&q=60",
+    "name": "Thirsty Hippo Moisture Absorber",
+    "price": 19.94,
+    "metadata": ["6 + free 2 x 600ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13206688_XL1_20251125.jpg?w=320&q=60",
+    "name": "Evian Natural Mineral Bottle Water",
+    "price": 18.85,
+    "metadata": ["6 x 1.5L"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12228635_XL1_20250924.jpg?w=320&q=60", "name": "Fresh Tomatoes", "price": 1.85, "metadata": ["600g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13080719_XL1_20260305.jpg?w=320&q=60",
+    "name": "Zespri Sungold Kiwi Fruit",
+    "price": 6.95,
+    "metadata": ["4 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13206560_XL1_20250513.jpg?w=320&q=60",
+    "name": "Nestle Milo Cereal Economic Pack",
+    "price": 8.5,
+    "metadata": ["450g", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13059926_XL1_20240603.jpg?w=320&q=60",
+    "name": "Quaker Oats Oatmeal - Instant",
+    "price": 8.35,
+    "metadata": ["1.35kg", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13195662_XL1_20250402.jpg?w=320&q=60",
+    "name": "Cif Cream Surface Cleanser - Lemon",
+    "price": 6.01,
+    "metadata": ["3 x 660g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13282176_XL1_20260104.jpg?w=320&q=60",
+    "name": "Authentic Tea House Ayataka No Sugar Japanese Green Tea",
+    "price": 17.5,
+    "metadata": ["24 x 300ml (CTN)", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13146935_XL1_20260109.jpg?w=320&q=60",
+    "name": "Top Concentrated Liquid Detergent Refill - Anti-Bacterial",
+    "price": 4.84,
+    "metadata": ["1.6kg"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13187644_XL1_20260109.jpg?w=320&q=60",
+    "name": "Downy Mystique Concentrate Fabric Conditioner Softener Refill",
+    "price": 9.98,
+    "metadata": ["1.35L"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13262393_XL1_20250225.jpg?w=320&q=60",
+    "name": "Yeo's Bottle Drink - Longan Red Date",
+    "price": 2.29,
     "metadata": ["1.5L", "Halal"]
   },
-  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13230210_XL1_20230510.jpg?w=320&q=60", "name": "Freshstory Celina Pear", "price": "$5.40", "metadata": ["800g"] },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13255994_XL1_20250125.jpg?w=320&q=60",
-    "name": "SongHe 8020 Mixed Fragrant + Red Rice",
-    "price": "$18.80",
-    "metadata": ["5kg", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/90200993_XL1_20260318085615_f24da42466a204ba8a2f986e3c5abf8a.jpg?w=320&q=60",
+    "name": "SunnyFarm Boiled Broccoli - Frozen",
+    "price": 3.98,
+    "metadata": ["1 KG"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13258004_XL1_20250710.jpg?w=320&q=60",
-    "name": "EB Kranch Mini Cheese Stick",
-    "price": "$8.20",
-    "metadata": ["280g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13212626_XL1_20260109.jpg?w=320&q=60",
+    "name": "Top Detergent Powder - Blooming Freshness",
+    "price": 15.05,
+    "metadata": ["4.6kg"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13216632_XL1_20250128.jpg?w=320&q=60",
-    "name": "Kellogg's Cereal - Coco Pops",
-    "price": "$7.70",
-    "metadata": ["350g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13065350_XL1_20231110.jpg?w=320&q=60",
+    "name": "Dasoon Premium Fresh Eggs",
+    "price": 4.6,
+    "metadata": ["900g (15 per pack)"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13197374_XL1_20250208.jpg?w=320&q=60",
-    "name": "Campbell's Chunky New England Clam Chowder",
-    "price": "$5.10",
-    "metadata": ["505g"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13178380_XL1_20221012.jpg?w=320&q=60",
+    "name": "F & N Flavoured Bottle Drink - Ginger Ade",
+    "price": 2.1,
+    "metadata": ["1.5L", "Halal"]
   },
   {
-    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13214470_XL1_20220407.jpg?w=320&q=60",
-    "name": "Ajinomoto Monosodium Glutamate (MSG)",
-    "price": "$2.70",
-    "metadata": ["300g", "Halal"]
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13232188_XL1_20250801.jpg?w=320&q=60",
+    "name": "SmartChoice Kitchen Towels",
+    "price": 4.05,
+    "metadata": ["6 x 70 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13214226_XL1_20220410.jpg?w=320&q=60",
+    "name": "Blood Sanitary Pad - Heavy (29cm)",
+    "price": 6.57,
+    "metadata": ["12 per pack", "$0.55/pc"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10467608_XL1_20250807.jpg?w=320&q=60",
+    "name": "FairPrice Bathroom Tissue Rolls (2ply)",
+    "price": 5.6,
+    "metadata": ["30 x 1 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13018761_XL1_20250925.jpg?w=320&q=60",
+    "name": "Magiclean Bathroom Stain & Mold Remover Refill",
+    "price": 7.97,
+    "metadata": ["2 x 400ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13255990_XL1_20250408.jpg?w=320&q=60",
+    "name": "Oatside Oat Milk - Chocolate Malt",
+    "price": 4.5,
+    "metadata": ["3 x 200ml", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13271363_XL1_20250703.jpg?w=320&q=60",
+    "name": "Meiji Flavoured Yoghurt with Nata De Coco - Peach",
+    "price": 1.01,
+    "metadata": ["135g", "Halal"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13224955_XL1_20230510.jpg?w=320&q=60", "name": "Anthos Fresh Figs", "price": 4.95, "metadata": ["160g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13179432_XL1_20220401.jpg?w=320&q=60",
+    "name": "Listerine Zero Alcohol Mouthwash - Sakura & Peach Zest",
+    "price": 7.56,
+    "metadata": ["500ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13169962_XL1_20220616.jpg?w=320&q=60",
+    "name": "PurSoft Kitchen Wet Wipes",
+    "price": 5.35,
+    "metadata": ["30 per pack"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13248430_XL1_20240408.jpg?w=320&q=60",
+    "name": "Yakult Cultured Milk Drink - Gold",
+    "price": 7.34,
+    "metadata": ["10 x 100ml", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13252670_XL1_20240529.jpg?w=320&q=60",
+    "name": "Tostitos Tortilla Chips - Classic Restaurant Style",
+    "price": 7.74,
+    "metadata": ["250g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13228489_XL1_20230112.jpg?w=320&q=60",
+    "name": "Life Pure Distilled Drinking Bottle Water",
+    "price": 2.35,
+    "metadata": ["6 x 550ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13149822_XL1_20260312.jpg?w=320&q=60",
+    "name": "Pursoft 100% Virgin Pulp Unscented Bathroom Tissue - 4Ply",
+    "price": 17.71,
+    "metadata": ["24 per pack"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13168611_XL1.jpg?w=320&q=60", "name": "Biograde Dishwashing Liquid - Fresh Lime", "price": 6.01, "metadata": ["3L"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200055_XL1_20260312.jpg?w=320&q=60",
+    "name": "L'Oreal Paris Shampoo - Fall Resist 3x",
+    "price": 16.1,
+    "metadata": ["620ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13273909_XL1_20250818.jpg?w=320&q=60",
+    "name": "Pokka Bottle Drink - Lychee Green Tea (Zero)",
+    "price": 2.5,
+    "metadata": ["1.5L", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13238154_XL1_20230914.jpg?w=320&q=60",
+    "name": "Eversoft Beauty Shower Foam - Avocado & Argan Oil",
+    "price": 11.0,
+    "metadata": ["950g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13221035_XL1_20250911.jpg?w=320&q=60",
+    "name": "Mr Muscle Mould and Mildew - Regular",
+    "price": 6.37,
+    "metadata": ["500ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13202317_XL1_20211008.jpg?w=320&q=60",
+    "name": "Delicato Bratwurst Pork Sausage - Smoked",
+    "price": 9.11,
+    "metadata": ["360g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13205704_XL1_20250212.jpg?w=320&q=60",
+    "name": "S&B Golden Curry Sauce Mix - Mild",
+    "price": 5.5,
+    "metadata": ["220g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90039831_XL1_20260317225649_c4cead6b76fa8e3a0ca4bfcfa0d5cc26.jpg?w=320&q=60",
+    "name": "Arrighi Italian Pasta - Fettucine",
+    "price": 5.0,
+    "metadata": ["2 x 500 G"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13185399_XL1_20250124.jpg?w=320&q=60", "name": "Just Wine Red Wine - Shiraz", "price": 31.0, "metadata": ["750ml"] },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13209240_XL1_20211116.jpg?w=320&q=60", "name": "Calbee Potato Chips - Seaweed", "price": 2.4, "metadata": ["72g"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90166928_XL1_20260318093716_cb5b2204e36241ca8301bc423cb054e9.jpg?w=320&q=60",
+    "name": "Tasty Food Affair Beef Shin Shank Cube",
+    "price": 8.9,
+    "metadata": ["500 G"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90199912_XL1_20260318084240_c0fa4540f10b57ff93f3521e160b40ab.jpg?w=320&q=60",
+    "name": "FarmFresh Chicken Fillet",
+    "price": 4.15,
+    "metadata": ["200 G", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13257979_XL1_20260101.jpg?w=320&q=60",
+    "name": "EB Kranch Alaska Pollock Finger",
+    "price": 7.5,
+    "metadata": ["270g", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13277149_XL1_20251212.jpg?w=320&q=60",
+    "name": "Darlie Double Action Toothpaste - Fresh & Clean + Quby Cup",
+    "price": 16.05,
+    "metadata": ["3 x 250g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13199871_XL1_20250911.jpg?w=320&q=60",
+    "name": "Vitaplus Benecol Juice Drink - Orange",
+    "price": 8.1,
+    "metadata": ["4 x 70ml", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13251321_XL1_20240603.jpg?w=320&q=60",
+    "name": "Pauls UHT Kids Milk - Original",
+    "price": 2.35,
+    "metadata": ["4 x 110ml", "Halal"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13177581_XL1_20210312.jpg?w=320&q=60",
+    "name": "Tian Tian Mian Dian Dumplings - Cabbage & Pork",
+    "price": 5.33,
+    "metadata": ["500g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13193474_XL1_20250710.jpg?w=320&q=60",
+    "name": "Kotex Overnight Panties - M - L",
+    "price": 2.75,
+    "metadata": ["2 per pack", "$1.18/pc"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13229869_XL1_20230322.jpg?w=320&q=60",
+    "name": "Harmuni Thai Premium Fragrant Rice",
+    "price": 13.34,
+    "metadata": ["5kg"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13210829_XL1_20250930.jpg?w=320&q=60",
+    "name": "Bio-Home Multi-Surface Cleaner - Lavender & Bergamot",
+    "price": 5.05,
+    "metadata": ["500ml"]
+  },
+  { "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13196980_XL1_20251216.jpg?w=320&q=60", "name": "Fresh Mini Thailand Watermelon", "price": 5.3, "metadata": ["1.2kg"] },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13175396_XL1_20250911.jpg?w=320&q=60",
+    "name": "Oreo Mini Sandwich Cookies Sharepack - Vanilla",
+    "price": 3.87,
+    "metadata": ["163.2g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90136143_XL1_20260318111839_4830fd77722a2a6b35834ec41a6468b2.jpg?w=320&q=60",
+    "name": "Superpork Pork Spare Rib Cuts",
+    "price": 5.95,
+    "metadata": ["500 G"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13163937_XL1_20250911.jpg?w=320&q=60",
+    "name": "Harpic Toilet Cleaner Liquid - Power Plus Citrus",
+    "price": 8.98,
+    "metadata": ["3 x 450ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13278823_XL1_20251201.jpg?w=320&q=60",
+    "name": "Magiclean Floor Cleaner - Green Apple",
+    "price": 7.5,
+    "metadata": ["3L"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13227077_XL1_20221202.jpg?w=320&q=60",
+    "name": "Golden Chef Dumpling - Chive & Pork",
+    "price": 5.05,
+    "metadata": ["400g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13194336_XL1_20240229.jpg?w=320&q=60",
+    "name": "1chi-yo Superior Chicken Collagen Broth",
+    "price": 7.27,
+    "metadata": ["250g"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13222759_XL1_20260109.jpg?w=320&q=60",
+    "name": "Kirei Gentle Care Foaming Hand Soap - Soothing Cotton",
+    "price": 4.89,
+    "metadata": ["400ml"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/90213537_XL1_20260318092946_5b47ccaf8a07ea9639df798d482695e8.jpg?w=320&q=60",
+    "name": "TAKA Premium Short Grain Rice",
+    "price": 12.8,
+    "metadata": ["5 KG"]
+  },
+  {
+    "imgSrc": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13205967_XL1_20250423.jpg?w=320&q=60",
+    "name": "Softlan Fabric Conditioner Softener Refill - Sakura Romance",
+    "price": 3.53,
+    "metadata": ["1.5L"]
   }
 ]

@@ -1,7 +1,13 @@
+import { useGame } from "./hooks/useGame";
+import { Header } from "./sections/Header";
+import { ItemInfoContainer } from "./sections/ItemInfoContainer";
+
 function App() {
+  const game = useGame();
   return (
     <>
-      <p>Hello World!</p>
+      <Header />
+      <ItemInfoContainer item={game.currentItem} />
     </>
   );
 }
