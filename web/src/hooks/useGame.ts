@@ -53,10 +53,10 @@ export function useGame() {
 
     if (percentageDiff <= 5) {
       result = "close";
-    } else if (actual > value) {
-      result = "high";
-    } else {
+    } else if (actual < value) {
       result = "low";
+    } else {
+      result = "high";
     }
 
     setGuesses((prev) => [...prev, { value, result }]);
@@ -66,10 +66,14 @@ export function useGame() {
     }
   }
 
+  const MAX_GUESSES = 6;
+  const isGameOver = guesses.length >= MAX_GUESSES || guesses.some((g) => g.result === "close");
+
   return {
     currentItem,
     guesses,
     handleNextGuess,
     nextRound,
+    isGameOver,
   };
 }

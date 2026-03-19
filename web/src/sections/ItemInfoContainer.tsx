@@ -13,10 +13,11 @@ export function ItemInfoContainer({ item }: Props) {
     <div
       className="
         overflow-hidden
-        w-full max-w-[500px]
+        w-[92%] max-w-[500px]
         mx-auto mt-5
         bg-white
         border border-[var(--border)] rounded-[6px]
+        md:w-full
       "
     >
       {/* Image Container */}
@@ -26,14 +27,14 @@ export function ItemInfoContainer({ item }: Props) {
           w-full h-[180px]
           bg-[#f8f8f8]
           items-center justify-center
-          sm:h-[220px]
-          md:h-[260px]
+          sm:h-[180px]
+          md:h-[220px]
         "
       >
         <img
           src={item.imgSrc}
           alt={item.name}
-          className="object-contain max-h-[160px] max-w-[92%] sm:max-h-[200px] md:max-h-[230px]"
+          className="object-contain max-h-[160px] max-w-[92%] sm:max-h-[150px] md:max-h-[200px]"
         />
       </div>
 

@@ -21,9 +21,7 @@ export function Header() {
           <span className="text-[var(--red)]">DLE</span>
         </div>
 
-        <IconButton
-          content={<LeaderboardIcon className="h-4 w-4 sm:h-5 sm:w-5" />}
-        />
+        <IconButton content={<LeaderboardIcon className="h-4 w-4 sm:h-5 sm:w-5" />} />
       </header>
     </div>
   );
