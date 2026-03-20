@@ -3,9 +3,10 @@ type Props = {
   onChange: (v: string) => void;
   onSubmit: () => void;
   disabled?: boolean;
+  buttonText: "NEXT" | "RETRY" | "GUESS";
 };
 
-export function GuessInputRow({ value, onChange, onSubmit, disabled = false }: Props) {
+export function GuessInputRow({ value, onChange, onSubmit, disabled = false, buttonText }: Props) {
   return (
     <div
       className="
@@ -23,7 +24,7 @@ export function GuessInputRow({ value, onChange, onSubmit, disabled = false }: P
           px-2 sm:px-3
           text-[11px] sm:text-[13px]
           text-[var(--muted)]
-          bg-[#fafafa]
+          bg-[var(--hover)]
           border border-[var(--border)]
           rounded-[6px]
           shrink-0
@@ -54,7 +55,7 @@ export function GuessInputRow({ value, onChange, onSubmit, disabled = false }: P
           rounded-[6px]
           outline-none
           focus:border-[var(--blue)]
-          disabled:bg-[#fafafa]
+          disabled:bg-[var(--hover)]
           disabled:text-[var(--muted)]
           disabled:cursor-not-allowed
         "
@@ -63,7 +64,6 @@ export function GuessInputRow({ value, onChange, onSubmit, disabled = false }: P
       {/* Button */}
       <button
         onClick={onSubmit}
-        disabled={disabled}
         className="
           flex items-center justify-center
           h-[40px]
@@ -76,10 +76,10 @@ export function GuessInputRow({ value, onChange, onSubmit, disabled = false }: P
           shrink-0
           transition
           hover:opacity-85
-          disabled:opacity-40 disabled:cursor-not-allowed
+          cursor-pointer
         "
       >
-        GUESS
+        {buttonText}
       </button>
     </div>
   );

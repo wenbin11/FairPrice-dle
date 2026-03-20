@@ -54,7 +54,7 @@ export function GuessBox({ value, result }: Props) {
     low: "bg-[var(--orange)] border-[var(--orange)] text-white",
   };
 
-  const emptyStyles = "bg-[#fafafa] border-[var(--border)] text-[var(--text)]";
+  const emptyStyles = "bg-[var(--hover)] border-[var(--border)] text-[var(--text)]";
 
   return (
     <div className={`${baseStyles} ${result ? stateStyles[result] : emptyStyles}`}>

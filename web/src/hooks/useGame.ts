@@ -8,12 +8,39 @@ type GuessResult = {
   result: "high" | "low" | "close";
 };
 
+type GameStats = {
+  roundsPlayed: number;
+  wins: number;
+  currentStreak: number;
+  bestStreak: number;
+  totalGuessesToWin: number;
+  guessDistribution: number[];
+};
+
+type RoundResult = {
+  status: "win" | "lose";
+  actualPrice: number;
+  guessesCount: number;
+};
+
 export function useGame() {
   const [usedIds, setUsedIds] = useState<Set<string>>(new Set());
   const [guesses, setGuesses] = useState<GuessResult[]>([]);
   const [currentItem, setCurrentItem] = useState<Item | null>(() => {
     return items[Math.floor(Math.random() * items.length)];
   });
+  const [roundResult, setRoundResult] = useState<RoundResult | null>(null);
+
+  const [stats, setStats] = useState<GameStats>({
+    roundsPlayed: 0,
+    wins: 0,
+    currentStreak: 0,
+    bestStreak: 0,
+    totalGuessesToWin: 0,
+    guessDistribution: [0, 0, 0, 0, 0, 0, 0],
+  });
+
+  const MAX_GUESSES = 6;
 
   function getNextItem(exclude: Set<string>) {
     const available = items.filter((item) => !exclude.has(item.name));
@@ -39,6 +66,42 @@ export function useGame() {
     setUsedIds(newUsed);
     setCurrentItem(nextItem);
     setGuesses([]);
+    setRoundResult(null);
+  }
+
+  function endRound(won: boolean, guessesCount: number) {
+    if (!currentItem) return;
+
+    setRoundResult({
+      status: won ? "win" : "lose",
+      actualPrice: currentItem.price,
+      guessesCount,
+    });
+
+    setStats((prev) => {
+      const next = { ...prev };
+      next.roundsPlayed += 1;
+
+      const dist = [...next.guessDistribution];
+
+      if (won) {
+        next.wins += 1;
+        next.currentStreak += 1;
+        next.bestStreak = Math.max(next.bestStreak, next.currentStreak);
+        next.totalGuessesToWin += guessesCount;
+        dist[guessesCount - 1] += 1;
+      } else {
+        next.currentStreak = 0;
+        dist[6] += 1;
+      }
+
+      next.guessDistribution = dist;
+      return next;
+    });
+  }
+
+  function clearRoundResult() {
+    setRoundResult(null);
   }
 
   function handleNextGuess(value: number) {
@@ -59,14 +122,19 @@ export function useGame() {
       result = "high";
     }
 
-    setGuesses((prev) => [...prev, { value, result }]);
+    setGuesses((prev) => {
+      const updated = [...prev, { value, result }];
 
-    if (result === "close") {
-      setTimeout(nextRound, 800);
-    }
+      const isWin = result === "close";
+      const isLose = updated.length >= MAX_GUESSES && !isWin;
+
+      if (isWin) endRound(true, updated.length);
+      else if (isLose) endRound(false, updated.length);
+
+      return updated;
+    });
   }
 
-  const MAX_GUESSES = 6;
   const isGameOver = guesses.length >= MAX_GUESSES || guesses.some((g) => g.result === "close");
 
   return {
@@ -75,5 +143,8 @@ export function useGame() {
     handleNextGuess,
     nextRound,
     isGameOver,
+    stats,
+    roundResult,
+    clearRoundResult,
   };
 }

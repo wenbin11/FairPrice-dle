@@ -1,10 +1,12 @@
 type IconButtonProps = {
   content: React.ReactNode;
+  onClick?: () => void;
 };
 
-export function IconButton({ content }: IconButtonProps) {
+export function IconButton({ content, onClick }: IconButtonProps) {
   return (
     <button
+      onClick={onClick}
       className="
         flex-shrink-0 flex
         w-8 h-8
